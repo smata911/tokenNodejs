@@ -1,0 +1,3 @@
+GET http://localhost:3000/api/v1/usuario/conToken HTTP/1.1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZFVzZXIiOiI2ZDhlMGQ3OC1jOGRjLTQ1MGYtYjUxMC01ZjMxYmQ2MiIsInVzZXJOYW1lIjoic21hdGE2IiwiaWF0IjoxNjc3MDAwMDk3LCJleHAiOjE2Nzc2MDAwOTd9.kDHWxDL6SckXR9jpJ2u46hs-FHkHlGj_3MeGLGbTKbQ
+Content-Type: application/json
